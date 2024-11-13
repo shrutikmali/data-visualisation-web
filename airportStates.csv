@@ -1,0 +1,352 @@
+,0,1
+0,BOS,Massachusetts
+1,SAN,California
+2,ORD,Illinois
+3,DEN,Colorado
+6,FAR,North Dakota
+7,ATL,Georgia
+8,MCO,Florida
+9,MIA,Florida
+10,PIT,Pennsylvania
+11,MSP,Minnesota
+13,AVL,North Carolina
+14,LAS,Nevada
+15,RDU,North Carolina
+16,CLT,North Carolina
+17,DFW,Texas
+18,SEA,Washington
+19,EWR,New Jersey
+20,AGS,Georgia
+21,CVG,Kentucky
+23,LAX,California
+24,ABE,Pennsylvania
+25,BDL,Connecticut
+27,SGF,Missouri
+28,KOA,Hawaii
+31,PHX,Arizona
+34,CLE,Ohio
+35,ACY,New Jersey
+37,PSP,California
+38,SNA,California
+39,LGA,New York
+40,DTW,Michigan
+41,PDX,Oregon
+42,DCA,Virginia
+44,HOU,Texas
+45,EUG,Oregon
+49,IAH,Texas
+52,AZA,Arizona
+55,CAE,South Carolina
+56,PBG,New York
+58,ANC,Alaska
+59,OAK,California
+61,FAY,North Carolina
+63,JFK,New York
+65,TPA,Florida
+69,PIE,Florida
+70,DSM,Iowa
+82,RSW,Florida
+85,TUS,Arizona
+86,ONT,California
+88,TUL,Oklahoma
+89,DAL,Texas
+93,LGB,California
+96,MSN,Wisconsin
+100,SAT,Texas
+101,STX,U.S. Virgin Islands
+104,PVD,Rhode Island
+107,SLC,Utah
+108,SFO,California
+109,MEM,Tennessee
+113,PBI,Florida
+115,SAV,Georgia
+117,STL,Missouri
+123,MCI,Missouri
+124,FLL,Florida
+128,VPS,Florida
+129,SJC,California
+138,JAX,Florida
+140,BOI,Idaho
+150,AUS,Texas
+152,BHM,Alabama
+154,IAD,Virginia
+155,ABQ,New Mexico
+176,SYR,New York
+195,OMA,Nebraska
+209,PHL,Pennsylvania
+218,MDW,Illinois
+219,FSD,South Dakota
+220,BWI,Maryland
+221,GRR,Michigan
+230,BNA,Tennessee
+231,LYH,Virginia
+241,LIT,Arkansas
+274,SFB,Florida
+278,ROC,New York
+279,GSO,North Carolina
+282,SDF,Kentucky
+283,SRQ,Florida
+288,BUR,California
+296,SMF,California
+303,SAF,New Mexico
+308,LEX,Kentucky
+313,TYS,Tennessee
+318,MKE,Wisconsin
+329,SJU,Puerto Rico
+335,DAY,Ohio
+337,OKC,Oklahoma
+343,ORF,Virginia
+349,AZO,Michigan
+353,SUN,Idaho
+362,HNL,Hawaii
+372,GEG,Washington
+373,XNA,Arkansas
+377,HTS,West Virginia
+401,IND,Indiana
+408,ATW,Wisconsin
+417,CRW,West Virginia
+426,ROA,Virginia
+432,BUF,New York
+439,COS,Colorado
+459,YAK,Alaska
+472,BMI,Illinois
+477,ALB,New York
+487,CHA,Tennessee
+492,MSY,Louisiana
+522,FNT,Michigan
+545,STS,California
+547,PSC,Washington
+555,CMH,Ohio
+568,SBA,California
+585,ICT,Kansas
+595,ASE,Colorado
+599,ELP,Texas
+609,SPS,Texas
+628,DAB,Florida
+633,MOT,North Dakota
+646,PNS,Florida
+653,TVC,Michigan
+658,TRI,Tennessee
+661,ITO,Hawaii
+672,GJT,Colorado
+677,SCE,Pennsylvania
+693,LBL,Kansas
+705,CSG,Georgia
+707,ABY,Georgia
+728,GRB,Wisconsin
+729,GSP,South Carolina
+739,HRL,Texas
+748,BFL,California
+755,SHV,Louisiana
+765,GNV,Florida
+768,CHO,Virginia
+769,LBB,Texas
+771,RNO,Nevada
+776,RIC,Virginia
+777,OGG,Hawaii
+786,ECP,Florida
+791,SBP,California
+808,JAC,Wyoming
+829,TLH,Florida
+872,BZN,Montana
+904,LIH,Hawaii
+916,BGR,Maine
+931,EYW,Florida
+940,COU,Missouri
+973,FLO,South Carolina
+987,HPN,New York
+1003,MGM,Alabama
+1023,MAF,Texas
+1028,FAT,California
+1053,EGE,Colorado
+1101,MLB,Florida
+1123,PVU,Utah
+1140,MBS,Michigan
+1153,GUM,U.S. Pacific Trust Territories and Possessions
+1168,ABI,Texas
+1183,LAR,Wyoming
+1204,MTJ,Colorado
+1207,JAN,Mississippi
+1211,DRO,Colorado
+1213,AMA,Texas
+1220,MFR,Oregon
+1238,TXK,Arkansas
+1245,IDA,Idaho
+1254,TYR,Texas
+1271,CHS,South Carolina
+1277,BRO,Texas
+1282,PQI,Maine
+1302,SUX,Iowa
+1322,RST,Minnesota
+1357,JNU,Alaska
+1399,HSV,Alabama
+1425,FWA,Indiana
+1435,BIL,Montana
+1449,LFT,Louisiana
+1462,HOB,New Mexico
+1473,ITH,New York
+1476,MRY,California
+1540,MLI,Illinois
+1577,GFK,North Dakota
+1583,CID,Iowa
+1586,PGD,Florida
+1629,ALW,Washington
+1647,CMI,Illinois
+1662,FSM,Arkansas
+1700,DVL,North Dakota
+1707,RFD,Illinois
+1724,LNK,Nebraska
+1730,RDM,Oregon
+1741,PSE,Puerto Rico
+1754,PIA,Illinois
+1783,PUW,Washington
+1889,PWM,Maine
+1933,CMX,Michigan
+1949,BIH,California
+1967,FCA,Montana
+1990,HLN,Montana
+1998,MDT,Pennsylvania
+2015,MYR,South Carolina
+2020,SBN,Indiana
+2021,AVP,Pennsylvania
+2106,STT,U.S. Virgin Islands
+2146,RAP,South Dakota
+2147,GCK,Kansas
+2193,MHK,Kansas
+2225,BTR,Louisiana
+2235,JLN,Missouri
+2344,HDN,Colorado
+2358,KTN,Alaska
+2406,XWA,North Dakota
+2478,HYS,Kansas
+2488,DDC,Kansas
+2601,LAW,Oklahoma
+2649,BTM,Montana
+2768,CPR,Wyoming
+2803,SJT,Texas
+2850,MFE,Texas
+2858,IMT,Michigan
+2863,JST,Pennsylvania
+2935,SGU,Utah
+3102,AEX,Louisiana
+3119,ISP,New York
+3122,BIS,North Dakota
+3171,OAJ,North Carolina
+3349,BQK,Georgia
+3368,EWN,North Carolina
+3369,MHT,New Hampshire
+3442,GUC,Colorado
+3471,BQN,Puerto Rico
+3520,GPT,Mississippi
+3528,LRD,Texas
+3583,ILM,North Carolina
+3586,GTF,Montana
+3609,BLI,Washington
+3620,PAE,Washington
+3629,BTV,Vermont
+3647,PIH,Idaho
+3686,RDD,California
+3700,SBY,Maryland
+4009,DIK,North Dakota
+4094,BRD,Minnesota
+4161,BJI,Minnesota
+4181,CRP,Texas
+4248,ORH,Massachusetts
+4257,SHR,Wyoming
+4290,GCC,Wyoming
+4304,GRK,Texas
+4314,PSG,Alaska
+4323,CAK,Ohio
+4398,DLH,Minnesota
+4407,MSO,Montana
+4783,BFF,Nebraska
+4796,FLG,Arizona
+5135,WRG,Alaska
+5143,OTH,Oregon
+5171,LCH,Louisiana
+5209,CNY,Utah
+5290,FOD,Iowa
+5536,BGM,New York
+5635,TWF,Idaho
+5645,FAI,Alaska
+5701,SCC,Alaska
+5734,SWO,Oklahoma
+5818,ROW,New Mexico
+6044,LAN,Michigan
+6107,MOB,Alabama
+6273,SLN,Kansas
+6343,GGG,Texas
+6627,MQT,Michigan
+6694,ACV,California
+6781,EVV,Indiana
+7061,HIB,Minnesota
+7075,VEL,Utah
+7137,LWS,Idaho
+7169,DLG,Alaska
+7226,BPT,Texas
+7325,RIW,Wyoming
+7464,PLN,Michigan
+7757,ACT,Texas
+7776,DEC,Illinois
+8256,YUM,Arizona
+8572,TTN,New Jersey
+8856,HHH,South Carolina
+9190,LBF,Nebraska
+9435,MLU,Louisiana
+9515,MEI,Mississippi
+9685,SCK,California
+9722,PHF,Virginia
+9747,GRI,Nebraska
+9772,PGV,North Carolina
+9796,COD,Wyoming
+9991,VLD,Georgia
+10138,APN,Michigan
+10240,YKM,Washington
+10468,STC,Minnesota
+10785,ERI,Pennsylvania
+11036,HGR,Maryland
+11168,ALO,Iowa
+11583,INL,Minnesota
+11673,MCW,Iowa
+11693,SIT,Alaska
+11811,BET,Alaska
+11861,OME,Alaska
+13325,RHI,Wisconsin
+13468,CYS,Wyoming
+13604,ELM,New York
+13712,PIB,Mississippi
+13845,IAG,New York
+14010,CIU,Michigan
+14046,CLL,Texas
+14586,TOL,Ohio
+14800,PSM,New Hampshire
+16515,CWA,Wisconsin
+17426,VCT,Texas
+17488,JMS,North Dakota
+18061,ART,New York
+18166,ADQ,Alaska
+19291,ABR,South Dakota
+21051,BRW,Alaska
+23403,BLV,Illinois
+23665,EAT,Washington
+24783,SPI,Illinois
+25660,LSE,Wisconsin
+27232,PRC,Arizona
+28134,RKS,Wyoming
+29052,ESC,Michigan
+29219,OTZ,Alaska
+30816,SWF,New York
+33411,DHN,Alabama
+35795,LCK,Ohio
+36329,CDC,Utah
+36849,PPG,U.S. Pacific Trust Territories and Possessions
+38036,CDV,Alaska
+38211,USA,North Carolina
+39719,SPN,U.S. Pacific Trust Territories and Possessions
+40868,AKN,Alaska
+46676,GTR,Mississippi
+51895,LBE,Pennsylvania
+52795,ADK,Alaska
+61419,EKO,Nevada
+62329,CKB,West Virginia
+122619,SMX,California
